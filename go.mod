@@ -3,6 +3,7 @@ module github.com/Hs88888/mini-spider
 go 1.15
 
 require (
+	github.com/Hs88888/go-queue v0.0.0-20220817162718-41c4264b8f5c
 	github.com/go-gcfg/gcfg v1.2.3
 	github.com/sirupsen/logrus v1.9.0
 	github.com/stretchr/testify v1.8.0

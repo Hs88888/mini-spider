@@ -10,11 +10,11 @@ modification history
 package mini_spider
 
 import (
+	"github.com/Hs88888/go-queue/queue"
 	"github.com/sirupsen/logrus"
 
 	"github.com/Hs88888/mini-spider/config_load"
 	"github.com/Hs88888/mini-spider/crawler"
-	"github.com/Hs88888/mini-spider/queue"
 	"github.com/Hs88888/mini-spider/url_table"
 )
 
